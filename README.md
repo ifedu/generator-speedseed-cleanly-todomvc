@@ -10,10 +10,9 @@
 ### Styleguide Cleanly
 - [cleanly-styleguide](https://github.com/ifedu/cleanly-styleguide)
 
-### README
-- [English](https://github.com/ifedu/generator-speedseed-cleanly-todomvc/blob/master/docs/README/EN_US.md)
-- [Spanish](https://github.com/ifedu/generator-speedseed-cleanly-todomvc/blob/master/docs/README/ES.md)
-
 ### Changelog
 - [English](https://github.com/ifedu/generator-speedseed-cleanly-todomvc/blob/master/docs/CHANGELOG/EN_US.md)
 - [Spanish](https://github.com/ifedu/generator-speedseed-cleanly-todomvc/blob/master/docs/CHANGELOG/ES.md)
+
+### Options
+- Vue **v.1.0.1**
